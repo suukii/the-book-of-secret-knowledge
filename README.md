@@ -364,6 +364,12 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://weechat.org/"><b>WeeChat</b></a> - is an extremely extensible and lightweight IRC client.<br>
 </p>
 
+##### :black_small_square: Productivity
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://taskwarrior.org"><b>taskwarrior</b></a> - task management system, todo list <br>
+</p>
+
 ##### :black_small_square: Other
 
 <p>
@@ -466,7 +472,7 @@ Only main chapters:
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://csp-evaluator.withgoogle.com/"><b>CSP Evaluator</b></a> - allows developers and security experts to check if a Content Security Policy.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://uselesscsp.com/"><b>Useless CSP</b></a> - public list about CSP in some big players (might make them care a bit more).<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://whynohttps.com/"><b>Why No HTTPS?</b></a> - top 100 websites by Alexa rank not automatically redirecting insecure requests.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://ciphersuite.info/"><b>TLS Cipher Suite Search</b></a><br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://ciphersuite.info/"><b>TLS Cipher Suite Search</b></a>- cipher suite search engine.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/RaymiiOrg/cipherli.st"><b>cipherli.st</b></a> - strong ciphers for Apache, Nginx, Lighttpd, and more.<b>*</b><br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://2ton.com.au/dhtool/"><b>dhtool</b></a> - public Diffie-Hellman parameter service/tool.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://badssl.com/"><b>badssl.com</b></a> - memorable site for testing clients against bad SSL configs.<br>
@@ -635,6 +641,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://thispersondoesnotexist.com/"><b>thispersondoesnotexist</b></a> - generate fake faces in one click - endless possibilities.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://generated.photos"><b>AI Generated Photos</b></a> - 100.000 AI generated faces.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://fakeface.co/"><b>fakeface</b></a> - fake faces browser.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://www.fakenamegenerator.com/"><b>fakenamegenerator</b></a> - your randomly generated identity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://tools.intigriti.io/redirector/"><b>Intigriti Redirector</b></a> - open redirect/SSRF payload generator.<br>
 </p>
 
@@ -785,7 +792,6 @@ performance of any of your sites from across the globe.<br>
 <p>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/google/gvisor"><b>gvisor</b></a> - container runtime sandbox.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/bcicen/ctop"><b>ctop</b></a> - top-like interface for container metrics.<br>
-&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/docker/docker-bench-security"><b>docker-bench-security</b></a> - is a script that checks for dozens of common best-practices around deploying Docker.<br>
 </p>
 
 ##### :black_small_square: Web Tools
@@ -797,6 +803,14 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/rancher/rancher"><b>rancher</b></a> - complete container management platform.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/portainer/portainer"><b>portainer</b></a> - making Docker management easy.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jwilder/nginx-proxy"><b>nginx-proxy</b></a> - automated nginx proxy for Docker containers using docker-gen.<br>
+</p>
+
+##### :black_small_square: Security
+
+<p>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/docker/docker-bench-security"><b>docker-bench-security</b></a> - is a script that checks for dozens of common best-practices around deploying Docker.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/aquasecurity/trivy"><b>trivy</b></a> - vulnerability scanner for containers, suitable for CI.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://goharbor.io/"><b>Harbor</b></a> - cloud native registry project that stores, signs, and scans content.<br>
 </p>
 
 ##### :black_small_square: Manuals/Tutorials/Best Practices
@@ -900,6 +914,7 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.lisenet.com/2017/centos-7-server-hardening-guide/"><b>CentOS 7 Server Hardening Guide</b></a> - great guide for hardening CentOS; familiar with OpenSCAP.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/decalage2/awesome-security-hardening"><b>awesome-security-hardening</b></a> - is a collection of security hardening guides, tools and other resources.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/trimstray/the-practical-linux-hardening-guide"><b>The Practical Linux Hardening Guide</b></a> - provides a high-level overview of hardening GNU/Linux systems.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://madaidans-insecurities.github.io/guides/linux-hardening.html"><b>Linux Hardening Guide</b></a> - how to harden Linux as much as possible for security and privacy.<br>
 </p>
 
 ##### :black_small_square: Security & Privacy
@@ -1054,6 +1069,8 @@ performance of any of your sites from across the globe.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/drduh/macOS-Security-and-Privacy-Guide"><b>macOS-Security-and-Privacy-Guide</b></a> - guide to securing and improving privacy on macOS.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/PaulSec/awesome-sec-talks"><b>awesome-sec-talks</b></a> - is a collected list of awesome security talks.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/k4m4/movies-for-hackers"><b>Movies for Hackers</b></a> - list of movies every hacker & cyberpunk must watch.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/danieldizzy/Cryptography_1"><b>Cryptography_1</b></a> - materials used whilst taking Prof. Dan Boneh Stanford Crypto course.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/ashutosh1206/Crypton"><b>Crypton</b></a> - library to learn and practice Offensive and Defensive Cryptography.<br>
 </p>
 
 ##### :black_small_square: Other
@@ -1295,6 +1312,7 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/swisskyrepo/PayloadsAllTheThings"><b>PayloadsAllTheThings</b></a> - a list of useful payloads and bypass for Web Application Security and Pentest/CTF.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/foospidy/payloads"><b>payloads</b></a> - git all the Payloads! A collection of web attack payloads.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/payloadbox/command-injection-payload-list"><b>command-injection-payload-list</b></a> - command injection payload list.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/jakejarvis/awesome-shodan-queries"><b>Awesome Shodan Search Queries</b></a> - great search queries to plug into Shodan.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/s0md3v/AwesomeXSS"><b>AwesomeXSS</b></a> - is a collection of Awesome XSS resources.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://github.com/JohnTroony/php-webshells"><b>php-webshells</b></a> - common php webshells.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/"><b>Pentesting Tools Cheat Sheet</b></a> - a quick reference high level overview for typical penetration testing.<br>
@@ -1433,6 +1451,7 @@ AWS deployment tool.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://www.hackthissite.org/pages/index/index.php"><b>Hack This Site</b></a> - is a free, safe and legal training ground for hackers.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://attackdefense.com"><b>Attack & Defense</b></a> - is a browser-based cloud labs.<br>
 &nbsp;&nbsp;:small_orange_diamond: <a href="https://cryptohack.org/"><b>Cryptohack</b></a> - a fun platform for learning modern cryptography.<br>
+&nbsp;&nbsp;:small_orange_diamond: <a href="https://cryptopals.com/"><b>Cryptopals</b></a> - the cryptopals crypto challenges.<br>
 </p>
 
 ##### :black_small_square: CTF platforms
@@ -1607,6 +1626,30 @@ http://192.168.516 → 192.168.2.4
   > This bypasses WAF filters for SSRF, open-redirect, etc where any IP as input gets blacklisted.
 
 For more information please see [How to Obscure Any URL](http://www.pc-help.org/obscure.htm) and [Magic IP Address Shortcuts](https://stuff-things.net/2014/09/25/magic-ip-address-shortcuts/).
+
+###### Hashing, encryption and encoding (by [Michal Špaček](https://twitter.com/spazef0rze))
+
+_Hashing_
+
+plaintext :arrow_right: hash<br>
+hash :no_entry: plaintext
+
+_Symmetric encryption_
+
+plaintext :arrow_right: :key: :arrow_right: ciphertext<br>
+plaintext :arrow_left: :key: :arrow_left: ciphertext<br>
+(:key: shared key)
+
+_Asymmetric encryption_
+
+plaintext :arrow_right: :key: :arrow_right: ciphertext<br>
+plaintext :arrow_left: :part_alternation_mark: :arrow_left: ciphertext<br>
+(:key: public key, :part_alternation_mark: private key)<br>
+
+_Encoding_
+
+text :arrow_right: encoded<br>
+text :arrow_left: encoded
 
 #### One-liners &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
 
